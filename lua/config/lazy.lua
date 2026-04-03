@@ -53,6 +53,7 @@ require("lazy").setup({
             {'hrsh7th/nvim-cmp'},
             {'hrsh7th/cmp-vsnip'},
             {'hrsh7th/vim-vsnip'},
+            {'github/copilot.vim'},
 --            {  "nvim-tree/nvim-tree.lua",
 --            version = "*",
 --            lazy = false,

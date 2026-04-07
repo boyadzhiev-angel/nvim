@@ -5,3 +5,4 @@
   * goimports
   * treesitter
   * treesitter cli
+  * rip grep

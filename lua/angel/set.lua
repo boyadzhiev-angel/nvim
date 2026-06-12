@@ -9,7 +9,7 @@ vim.opt.expandtab = true
 
 vim.opt.smartindent = true
 
-vim.opt.sidescrolloff = 0
+vim.opt.sidescroll = 0
 
 vim.opt.wrap = false
 
